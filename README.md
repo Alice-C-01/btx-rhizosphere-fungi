@@ -72,7 +72,7 @@ The analyses use the following packages:
 | Source | Packages |
 |---|---|
 | Bioconductor | `phyloseq`, `DESeq2` |
-| CRAN | `vegan`, `openxlsx`, `dplyr`, `tidyr`, `tibble`, `ggplot2`, `ggrepel`, `ggdendro`, `UpSetR`, `dunn.test`, `scales` |
+| CRAN | `vegan`, `openxlsx`, `dplyr`, `tidyr`, `tibble`, `ggplot2`, `ggrepel`, `ggdendro`, `UpSetR`, `dunn.test` |
 | GitHub | `pairwiseAdonis` (`pmartinezarbizu/pairwiseAdonis`) |
 
 Additional packages are installed as dependencies.
@@ -95,9 +95,6 @@ Additional packages are installed as dependencies.
 | `dunn.test` | 1.4.2 |
 | `tibble` | 3.3.1 |
 | `ggplot2` | 4.0.3 |
-| `permute` | 0.9-10 |
-| `cluster` | 2.1.8.3 |
-| `scales` | 1.4.0 |
 
 These versions describe the recorded analysis environment, they are not necessarily the latest available package versions.
 
