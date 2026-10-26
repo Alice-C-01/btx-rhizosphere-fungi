@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the analysis code or data, please cite this work as below."
+title: "Analysis code and data for: Bioprospecting urban rhizosphere fungal communities: diversity and functional potential following enrichment under BTX selective pressure"
+type: software
+authors:
+  - given-names: "Alice"
+    family-names: "Kirilyuk Chernaya"
+    affiliation: "Universidade de Aveiro"
+date-released: "2026-10-25"
+license: MIT
+abstract: >-
+  This repository contains R analysis code and associated research data.
+  The analysis code is licensed under the MIT License. Data are licensed
+  under the Creative Commons Attribution 4.0 International (CC BY 4.0)
+  licence, as described in LICENSE-DATA.
+repository-code: "https://github.com/Alice-C-01/btx-urban-rhizosphere-fungi"
+keywords:
+  - fungal ITS metabarcoding
+  - rhizosphere
+  - BTEX
+  - bioremediation
+  - phyloseq
+  - DESeq2
